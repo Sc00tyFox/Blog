@@ -382,6 +382,7 @@
         font-size: <?php echo getConfigByConstant("BLOG_TITLE_FONT_SIZE");?>;
 
         color: #FFFFFF;
+        text-shadow: 1px 1px 15px #000000;
     }
 
     .blog-title:hover {
@@ -398,7 +399,8 @@
         font-family: "Hermes";
         font-size: <?php echo getConfigByConstant("BLOG_SUBTITLE_FONT_SIZE");?>;
 
-        color: rgb(138, 138, 138);
+        color: #8a8a8a;
+        text-shadow: 1px 1px 2px #000000;
     }
 
     .footer-item {
