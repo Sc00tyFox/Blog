@@ -418,6 +418,7 @@
 
     .post-title {
         color: #FFFFFF;
+        text-shadow: 1px 1px 5px #000000;
         border-bottom: 1px solid #ffffff62;
 
         font-family: "Hermes";
